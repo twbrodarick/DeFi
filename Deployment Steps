@@ -4,4 +4,6 @@
 3. index.html
   
 ### In repo:
-1. Under Settings 
+1. Under Settings, scroll down below GitHub pages section to Source
+2. Change Source branch to Master and Save
+  * The URL listed above will host the deployed auction site. 
