@@ -1,9 +1,15 @@
-### Once code is finished upload to new repo:
-1. json files of completed code
-2. dapp.js
-3. index.html
-  
+### Once code is finished:
+1. Confirm Ganache is running. We will run on local network:8545
+2. Compile ,sol files in Solidity.
+3. Deploy the MartianMarket.sol file on MetaMask to local network :8545
+3. Create new repo on Github for this auction. Upload the following to it:
+  * json files of completed code
+  * dapp.js
+  * index.html
+
 ### In repo:
 1. Under Settings, scroll down below GitHub pages section to Source
 2. Change Source branch to Master and Save
   * The URL listed above will host the deployed auction site. 
+3. Add URL on README for easy user access to auction
+  
