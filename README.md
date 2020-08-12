@@ -8,7 +8,7 @@ You are a smart contract engineer on a team of elite developers hired by the mar
 
 The general idea of the following simple auction contract is that everyone can send their bids during a bidding period. The bids already include sending money/ether in order to bind the bidders to their bid. If the highest bid is raised, the previously highest bidder gets her money back. After the end of the bidding period, the contract has to be called manually for the beneficiary to receive their money - contracts cannot activate themselves
 
-### Requirements
+### Build Instructions
 
 1) Now open Remix and create a new contract named MartianAuction.sol. Begin by adding the pragma and contract declarations.
 
@@ -131,4 +131,6 @@ We need to add a function to tell the pending returns.
 We need to add a function to place a bid.
 
 NOTE:  Bug preventing auction from ending
+
+
 
