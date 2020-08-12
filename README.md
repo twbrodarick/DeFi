@@ -128,3 +128,5 @@ We need to add a function to tell the pending returns.
 
 We need to add a function to place a bid.
 
+NOTE:  Bug preventing auction from ending
+
